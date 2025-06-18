@@ -1,0 +1,31 @@
+Se pide crear una base de datos funcional con las siguientes caracteristicas.
+
+1. Generar el diagrama de entidad relación. (Workbench)
+2. Crear la base de datos. 
+
+Se solicita:
+a. Al menos siete tablas.
+b. Al menos tres tablas con clave foráneas.
+c. Al menos una tabla con dos claves foráneas.
+d. Únicamente se permiten dos tablas que contengan solo dos campos.
+e. Al menos un campo autonumérico.
+f. Deben utilizar campos numéricos (INT Y FLOAT), TEXTO, DATE, BOOLEAN.
+g. Las tablas deben estar normalizadas en 3NF
+h. Crear al menos 2 índices útiles para alguna consulta.
+
+3. Crear todas las tablas (especificando claves primarias y foráneas autorizadas a ingresar durante la creación).
+4. Insertar al menos 10 registros en cada una de las tablas (datos lo más real posible).
+5. Modificar entre 1 y 2 campos de al menos 2 registros de cada una de las tablas.
+6. Ejecutar consultas analíticas utilizando las siguientes funciones:
+- Count()
+- Sum()
+- AVG()
+- Max()
+- Min()
+7. Ejecutar subconsultas con la cláusula IN()
+8. Ejecutar al menos 5 consultas multitabla. 
+
+
+El formato de entrega debe ser un archivo que se pueda importar en xampp y en mysql workbech para el diagrama o bien scripts separados con la creación de los objetos y el diagrama.
+
+Temas para el TP: Veterinaria, Videoclub, Lavadero de vehiculos, Compañia de seguros
